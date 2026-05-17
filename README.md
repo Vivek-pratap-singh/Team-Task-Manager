@@ -2,7 +2,6 @@
 
 A full-stack project and task management SaaS built with **React**, **Node.js/Express**, **MySQL**, and **Prisma ORM**. Features role-based access control, a drag-and-drop Kanban board, real-time updates via Socket.io, dark mode, and activity logging.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Railway-purple?style=for-the-badge&logo=railway)](https://team-task-manager-production-77b8.up.railway.app)
 
 ---
 
