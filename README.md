@@ -2,6 +2,9 @@
 
 A full-stack project and task management SaaS built with **React**, **Node.js/Express**, **MySQL**, and **Prisma ORM**. Features role-based access control, a drag-and-drop Kanban board, real-time updates via Socket.io, dark mode, and activity logging.
 
+## Live Demo
+
+[https://frontend-production-0365.up.railway.app/](https://frontend-production-0365.up.railway.app/)
 
 ---
 
